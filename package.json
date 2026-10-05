@@ -1,0 +1,15 @@
+{
+  "name": "exercicios-jest",
+  "version": "1.0.0",
+  "description": "Projeto para testes de Software",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
